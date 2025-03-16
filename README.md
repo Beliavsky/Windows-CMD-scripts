@@ -1,2 +1,2 @@
-# Windows-CMD-scripts
-Windows CMD batch scripts
+# Windows CMD scripts
+
